@@ -6,7 +6,6 @@ This project serves as a learning prototype for board game state tracking and in
 ## 🛠️ Tech Stack
 * **Backend:** Python (FastAPI / Django)
 * **Frontend:** React
-* **Source Control:** Git / SCM patterns
 
 ## Key Architectural Insights & Takeaways
 * **The REST vs. WebSocket Dilemma:** The initial architecture relied on classic API routes (REST) for state synchronization. During development, it became evident that constant polling for a dynamic game board was highly inefficient and could lead to problems with 6 Players. 
