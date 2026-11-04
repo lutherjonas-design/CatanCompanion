@@ -4,7 +4,7 @@
 This project serves as a learning prototype for board game state tracking and initial API design. It was intentionally paused after discovering critical architectural constraints regarding real-time communication.
 
 ### 🛠️ **Tech Stack**
-* **Backend:** Python (FastAPI / Django)
+* **Backend:** Python, FastAPI
 * **Frontend:** React
 
 ## Key Architectural Insights & Takeaways
