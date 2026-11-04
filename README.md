@@ -1,9 +1,9 @@
 # CatanCompanion
 
-⚠️ **Project Status: Paused (Architectural Transition Study)**  
+### ⚠️ **Project Status: Paused (Architectural Transition Study)**  
 This project serves as a learning prototype for board game state tracking and initial API design. It was intentionally paused after discovering critical architectural constraints regarding real-time communication.
 
-## 🛠️ Tech Stack
+### 🛠️ **Tech Stack**
 * **Backend:** Python (FastAPI / Django)
 * **Frontend:** React
 
